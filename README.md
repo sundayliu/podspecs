@@ -1,0 +1,2 @@
+# podspecs
+specs for cocospod
